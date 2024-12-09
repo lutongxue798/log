@@ -1,0 +1,3 @@
+# gitlogs
+
+get git log
